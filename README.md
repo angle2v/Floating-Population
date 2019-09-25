@@ -9,10 +9,10 @@
 ### Sunggook Choi [GitHub](https://github.com/SunggookCHOI)
 ### Jongsung Kim [GitHub](https://github.com/SEJSCloud)
 
-# Used Programming Language
+# Programming Language
 ### - [Java]
 
-# Used API
+# API
 ### - [JPA]
 # DB
 ### - [OracleRDBMS]
