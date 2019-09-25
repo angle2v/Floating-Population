@@ -26,7 +26,7 @@
 ### - Development of miniproject logic using java-jpa by receiving regional floating population data from
 
 # DB reference
-### Seoul Open Data Plaza [Click](https://data.seoul.go.kr/)
+### [Seoul Open Data Plaza](https://data.seoul.go.kr/)
 # Preview project
 <img src="img/Insert.png">
 <img src="img/SelectAll.png">
